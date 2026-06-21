@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-fuego-sagrado/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Noche de fuego sagrado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-fuego-sagrado/) |
+| **Get License** | [Music Rights & Licensing for Noche de fuego sagrado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-fuego-sagrado/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Noche de fuego sagrado
+> Tu cuerpo llama y yo soy el pecado
+> Bailando lento en el ritual
+> Solo tú y yo, sin final
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
