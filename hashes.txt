@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Noche de
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-22T04:02:41.999054 | `v1` | `683822e356daefb9f210d7c860492e6b617c2378eab85d099ea5eaf13824793a` | `978011b69a55992d39dbda11405c78d088241e554dc93575824d85dc900a9fb4` | `2026-06-22_noche-de-fuego-sagrado-v1.txt` |
+| 2026-06-22T04:09:29.932141 | `v2` | `26fbe1eaa16a7d73e5cdc70ca3514895cedfcb9f9d29438107f27c5f987ae515` | `546ab4e25f9fe14af78dd66ca7a6c075cbd52bc5781dc8048c8106a1b2e89116` | `2026-06-22_noche-de-fuego-sagrado-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
