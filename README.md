@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-fuego-sagrado/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Noche de fuego sagrado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-fuego-sagrado/) |
+| **Get License** | [Request Licensing for Noche de fuego sagrado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-fuego-sagrado/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `683822e356daefb9f210d7c860492e6b617c2378eab85d099ea5eaf13824793a` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
